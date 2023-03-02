@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**andarivel/andarivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hola a todos👋
+**andarivel/andarivel** es un repositorio ✨ _special_ ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
